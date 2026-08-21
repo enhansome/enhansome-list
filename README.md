@@ -31,6 +31,7 @@ For a deeper dive into cybersecurity-related tools, check out the dedicated **[C
 * ["A Brief Analysis of a Vulnerability in the Glibc (CVE-2025-4802)"][1277]
 * ["A Race Within A Race: Exploiting CVE-2025-38617 in Linux Packet Sockets"][1283]
 * ["Achieving remote code execution in LangSmith Playground using unsafe template formatting"][1271]
+* ["Apache Pony Mail CRLF Injection and SSRF Leading to Full Account Takeover"][1305]
 * ["BRIDGEROUTER: Automated Capability Upgrading of Out-Of-Bounds Write Vulnerabilities to Arbitrary Memory Write Primitives in the Linux Kernel"][1293]
 * ["Carbonara: The MediaTek exploit nobody served"][1249]
 * ["CHECK Removed, Context Confused, Checkmate Achieved"][1287]
@@ -4088,6 +4089,8 @@ For a deeper dive into cybersecurity-related tools, check out the dedicated **[C
 
 [1304]: https://starlabs.sg/blog/2026/04-three-bugs-walk-into-a-pdf-prototype-pollution-served-cold/
 
+[1305]: https://starlabs.sg/advisories/26/26-41873/
+
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-21._
