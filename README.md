@@ -32,6 +32,7 @@ For a deeper dive into cybersecurity-related tools, check out the dedicated **[C
 * ["A Race Within A Race: Exploiting CVE-2025-38617 in Linux Packet Sockets"][1283]
 * ["Achieving remote code execution in LangSmith Playground using unsafe template formatting"][1271]
 * ["Apache Pony Mail CRLF Injection and SSRF Leading to Full Account Takeover"][1305]
+* ["Black Box Probing: a Security Analysis of Xiaomi's MJA1 Secure Chip"][1306]
 * ["BRIDGEROUTER: Automated Capability Upgrading of Out-Of-Bounds Write Vulnerabilities to Arbitrary Memory Write Primitives in the Linux Kernel"][1293]
 * ["Carbonara: The MediaTek exploit nobody served"][1249]
 * ["CHECK Removed, Context Confused, Checkmate Achieved"][1287]
@@ -4091,6 +4092,8 @@ For a deeper dive into cybersecurity-related tools, check out the dedicated **[C
 
 [1305]: https://starlabs.sg/advisories/26/26-41873/
 
+[1306]: https://blog.quarkslab.com/black-box-probing-a-security-analysis-of-xiaomis-mja1-secure-chip.html
+
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-26._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-27._

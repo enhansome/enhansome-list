@@ -1,10 +1,17 @@
 {
   "items": [],
   "metadata": {
-    "last_updated": "2026-08-26T13:43:34.284Z",
-    "original_repository": "0xor0ne/awesome-list",
-    "original_repository_id": 489449257,
-    "original_repository_sha": "93a42f020e1ed2d335eb0bd4bd852f34a7c78fe4",
+    "last_updated": "2026-08-27T11:48:17.555Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 489449257,
+      "language": null,
+      "last_commit": "2026-08-26T20:19:14Z",
+      "owner": "0xor0ne",
+      "repo": "awesome-list",
+      "stars": 4069
+    },
+    "original_repository_sha": "f743f00f8bbab4f7e68ef1aa21ea734ff5105243",
     "enhanced_repository": "enhansome/enhansome-list",
     "enhanced_repository_description": null,
     "title": "Awesome Cybersecurity List with stars"
