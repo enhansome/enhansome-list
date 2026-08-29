@@ -1,15 +1,26 @@
 {
   "items": [],
   "metadata": {
-    "last_updated": "2026-08-28T22:45:24.377Z",
+    "last_updated": "2026-08-29T04:18:11.690Z",
     "original_repository_info": {
       "archived": false,
+      "description": "Cybersecurity oriented awesome list",
+      "homepage": null,
       "id": 489449257,
       "language": null,
+      "license": "CC-BY-SA-4.0",
       "last_commit": "2026-08-26T20:19:14Z",
+      "open_issues": 7,
       "owner": "0xor0ne",
       "repo": "awesome-list",
-      "stars": 4074
+      "stars": 4074,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "cybersecurity",
+        "exploitation",
+        "reverse-engineering"
+      ]
     },
     "original_repository_sha": "f743f00f8bbab4f7e68ef1aa21ea734ff5105243",
     "enhanced_repository": "enhansome/enhansome-list",
