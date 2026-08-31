@@ -31,6 +31,7 @@ For a deeper dive into cybersecurity-related tools, check out the dedicated **[C
 * ["A Brief Analysis of a Vulnerability in the Glibc (CVE-2025-4802)"][1277]
 * ["A Race Within A Race: Exploiting CVE-2025-38617 in Linux Packet Sockets"][1283]
 * ["Achieving remote code execution in LangSmith Playground using unsafe template formatting"][1271]
+* ["AI-FI: Reproducing adb to root on Google's TV Streamer using Claude in less than 15 minutes"][1307]
 * ["Apache Pony Mail CRLF Injection and SSRF Leading to Full Account Takeover"][1305]
 * ["Black Box Probing: a Security Analysis of Xiaomi's MJA1 Secure Chip"][1306]
 * ["BRIDGEROUTER: Automated Capability Upgrading of Out-Of-Bounds Write Vulnerabilities to Arbitrary Memory Write Primitives in the Linux Kernel"][1293]
@@ -4094,6 +4095,8 @@ For a deeper dive into cybersecurity-related tools, check out the dedicated **[C
 
 [1306]: https://blog.quarkslab.com/black-box-probing-a-security-analysis-of-xiaomis-mja1-secure-chip.html
 
+[1307]: https://raelize.com/blog/ai-fi-reproducing-adb-to-root-on-googles-tv-streamer-using-claude/
+
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-30._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-31._
