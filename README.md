@@ -63,6 +63,7 @@ For a deeper dive into cybersecurity-related tools, check out the dedicated **[C
 * "Hooked on Linux"
   * ["Rootkit Taxonomy, Hooking Techniques and Tradecraft"][1281]
   * ["Rootkit Detection Engineering"][1282]
+* ["How LLMs Actually Work"][1308]
 * ["Jenny was a Friend of Mine - MCPs and Friends"][1274]
 * ["Intercepting OkHttp at Runtime With Frida - A Practical Guide"][1253]
 * ["Leveling Up Secure Code Reviews with Claude Code"][1273]
@@ -80,6 +81,9 @@ For a deeper dive into cybersecurity-related tools, check out the dedicated **[C
 * ["Pwning Supercomputers - A 20yo vulnerability in Munge"][1255]
 * ["Reverse Engineering the Tapo C260 and Tapo Discovery Protocol v2"][1219]
 * ["Revisiting Two-Shot Kernel Shellcode Execution From Control Flow Hijacking"][1288]
+* "Sleeping Beauty"
+  * ["Putting Adaptix to Bed with Crystal Palace"][1309]
+  * ["CFG, CET, and Stack Spoofing"][1310]
 * ["Some notes on the security properties of the pipe\_buffer kernel object"][1285]
 * ["Static Devirtualization of Themida"][1292]
 * ["Table Manners: Diving into Linux Pagetables exp techniques"][1280]
@@ -4097,6 +4101,12 @@ For a deeper dive into cybersecurity-related tools, check out the dedicated **[C
 
 [1307]: https://raelize.com/blog/ai-fi-reproducing-adb-to-root-on-googles-tv-streamer-using-claude/
 
+[1308]: https://www.0xkato.xyz/how-llms-actually-work/
+
+[1309]: https://maorsabag.github.io/posts/adaptix-stealthpalace/sleeping-beauty/
+
+[1310]: https://maorsabag.github.io/posts/adaptix-stealthpalace/sleeping-beauty-ii/[]
+
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-04._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-05._
