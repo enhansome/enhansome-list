@@ -53,6 +53,7 @@ For a deeper dive into cybersecurity-related tools, check out the dedicated **[C
 * [Dirty Frag][1300]
 * ["DIRTYFREE: Simplified Data-Oriented Programming in the Linux Kernel"][1238]
 * ["Drone Hacking Part 1: Dumping Firmware and Bruteforcing ECC"][1223]
+* ["Exploiting CVE-2024-1065 via the Page Cache"][1315]
 * ["Exploiting MediaTek's Download Agent"][1232]
 * ["From DDS Packets to Robot Shells: Two RCEs in Unitree Robots (CVE-2026-27509 & CVE-2026-27510)"][1245]
 * ["From KernelSnitch to Practical msg\_msg/pipe\_buffer Heap KASLR Leaks"][1279]
@@ -4120,6 +4121,8 @@ For a deeper dive into cybersecurity-related tools, check out the dedicated **[C
 
 [1314]: https://machiry.github.io/files/soksp2026.pdf
 
+[1315]: https://kuzey.rs/posts/MaliUAF/
+
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-18._
