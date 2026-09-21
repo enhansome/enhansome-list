@@ -34,6 +34,7 @@ For a deeper dive into cybersecurity-related tools, check out the dedicated **[C
 * ["AI-FI: Reproducing adb to root on Google's TV Streamer using Claude in less than 15 minutes"][1307]
 * ["Apache Pony Mail CRLF Injection and SSRF Leading to Full Account Takeover"][1305]
 * ["Black Box Probing: a Security Analysis of Xiaomi's MJA1 Secure Chip"][1306]
+* ["Break the Trust Chain of the Ethereum Phone"][1316]
 * ["BRIDGEROUTER: Automated Capability Upgrading of Out-Of-Bounds Write Vulnerabilities to Arbitrary Memory Write Primitives in the Linux Kernel"][1293]
 * ["Carbonara: The MediaTek exploit nobody served"][1249]
 * ["CHECK Removed, Context Confused, Checkmate Achieved"][1287]
@@ -4123,6 +4124,8 @@ For a deeper dive into cybersecurity-related tools, check out the dedicated **[C
 
 [1315]: https://kuzey.rs/posts/MaliUAF/
 
+[1316]: https://hhj4ck.github.io/en/break-the-trust-chain-of-the-ethereum-phone.html
+
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-21._
