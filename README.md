@@ -97,6 +97,7 @@ For a deeper dive into cybersecurity-related tools, check out the dedicated **[C
 * ["Static Devirtualization of Themida"][1292]
 * ["Table Manners: Diving into Linux Pagetables exp techniques"][1280]
 * ["TAPOcalypse Now: Exploiting TP-Link Smart Devices From Anywhere"][1291]
+* ["The BlueFrag Zero-Click: A System Replay"][1319]
 * ["The Cost of Understanding: LLM-Driven Reverse Engineering vs Iterative LLM Obfuscation"][1296]
 * ["The Hidden Risk of Side-Channel Attacks on Post Quantum Cryptography"][1298]
 * ["The Story of a Perfect Exploit Chain: Six Bugs That Looked Harmless Until They Became Pre-Auth RCE in a Security Appliance"][1234]
@@ -4132,6 +4133,8 @@ For a deeper dive into cybersecurity-related tools, check out the dedicated **[C
 
 [1318]: https://fatgid.io
 
+[1319]: https://it4ch1-007.github.io/posts/Poc-CVE-2020-0022/
+
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-30._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-01._
