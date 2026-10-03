@@ -2,7 +2,7 @@
 
 My personal collection of awesome blog posts, write-ups, and papers focusing on cybersecurity.
 
-For a deeper dive into cybersecurity-related tools, check out the dedicated **[Cybersecurity Tools](topics/tools_and_repos.md)** list.
+For a deeper dive into cybersecurity-related tools, check out the dedicated **[Cybersecurity Tools](https://github.com/0xor0ne/awesome-list/blob/HEAD/topics/tools_and_repos.md)** list.
 
 ## Outline
 
@@ -1500,14 +1500,14 @@ For a deeper dive into cybersecurity-related tools, check out the dedicated **[C
 
 ## Other Lists
 
-* [Exploitation](topics/exploitation.md): resources dedicated to the world of
+* [Exploitation](https://github.com/0xor0ne/awesome-list/blob/HEAD/topics/exploitation.md): resources dedicated to the world of
   binary exploitation
-* [Linux Kernel](topics/linux_kernel.md): collection of resources dedicated to
+* [Linux Kernel](https://github.com/0xor0ne/awesome-list/blob/HEAD/topics/linux_kernel.md): collection of resources dedicated to
   Linux kernel (internals)
-* [Wireless](topics/wireless.md): resources dedicated to wireless technologies
+* [Wireless](https://github.com/0xor0ne/awesome-list/blob/HEAD/topics/wireless.md): resources dedicated to wireless technologies
   and security
-* [OT/IoT Security](topics/ot_security.md)
-* [Red Teaming and Offensive Security](topics/red-team-adversary-emulation.md)
+* [OT/IoT Security](https://github.com/0xor0ne/awesome-list/blob/HEAD/topics/ot_security.md)
+* [Red Teaming and Offensive Security](https://github.com/0xor0ne/awesome-list/blob/HEAD/topics/red-team-adversary-emulation.md)
 
 [0]: https://sergioprado.blog/introduction-to-encryption-for-embedded-linux-developers/
 
@@ -4137,4 +4137,4 @@ For a deeper dive into cybersecurity-related tools, check out the dedicated **[C
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-02._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-03._
