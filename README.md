@@ -48,6 +48,7 @@ For a deeper dive into cybersecurity-related tools, check out the dedicated **[C
   * ["Uncovering Chronomaly"][1265]
 * ["CVE-2026-0714 TPM-sniffing LUKS Keys on an Embedded Device"][1235]
 * ["CVE-2026-20182: Critical authentication bypass in Cisco Catalyst SD-WAN Controller"][1303]
+* ["CVE-2026-40369: Twelve Bytes to Escape the Browser Sandbox"][1320]
 * ["Damned OOB"][1297]
 * ["Defeating Anti-Reverse Engineering: A Deep Dive into the 'Trouble' Binary"][1237]
 * ["DiceCTF 2026 Quals - cornelslop: Turning an RCU Double Free into a Cross-Cache Kernel Exploit"][1266]
@@ -4135,6 +4136,8 @@ For a deeper dive into cybersecurity-related tools, check out the dedicated **[C
 
 [1319]: https://it4ch1-007.github.io/posts/Poc-CVE-2020-0022/
 
+[1320]: https://voidsec.com/cve-2026-40369-browser-sandbox-escape/
+
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-04._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-06._
