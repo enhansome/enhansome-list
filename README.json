@@ -1,7 +1,7 @@
 {
   "items": [],
   "metadata": {
-    "last_updated": "2026-10-07T19:06:30.072Z",
+    "last_updated": "2026-10-08T19:02:45.386Z",
     "original_repository_info": {
       "archived": false,
       "description": "Cybersecurity oriented awesome list",
@@ -10,10 +10,10 @@
       "language": null,
       "license": "CC-BY-SA-4.0",
       "last_commit": "2026-10-05T18:02:51Z",
-      "open_issues": 10,
+      "open_issues": 9,
       "owner": "0xor0ne",
       "repo": "awesome-list",
-      "stars": 4214,
+      "stars": 4217,
       "topics": [
         "awesome",
         "awesome-list",
