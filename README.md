@@ -68,6 +68,7 @@ For a deeper dive into cybersecurity-related tools, check out the dedicated **[C
   * ["Lessons Learned"][1312]
   * ["The Bugs"][1313]
 * ["General Graboids: Worms and Remote Code Execution in Command & Conquer"][1250]
+* ["Harnessing Harnesses - Climbing the LLM Hills"][1327]
 * ["Have you patched? Are you sure? The story of the sticky Supermicro BMC bugs"][1248]
 * ["Here We Go Again: A Five-Bug Chain to Arbitrary APK Install on Samsung S25"][1295]
 * ["HDD Firmware Hacking Part 1"][1290]
@@ -4156,6 +4157,8 @@ For a deeper dive into cybersecurity-related tools, check out the dedicated **[C
 
 [1326]: https://www.usenix.org/system/files/conference/usenixsecurity26/sec26_prepub_rodrigues.pdf
 
+[1327]: https://blog.zsec.uk/harnessing-harnesses/
+
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-22._
