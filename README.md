@@ -37,6 +37,7 @@ For a deeper dive into cybersecurity-related tools, check out the dedicated **[C
 * ["Black Box Probing: a Security Analysis of Xiaomi's MJA1 Secure Chip"][1306]
 * ["Break the Trust Chain of the Ethereum Phone"][1316]
 * ["BRIDGEROUTER: Automated Capability Upgrading of Out-Of-Bounds Write Vulnerabilities to Arbitrary Memory Write Primitives in the Linux Kernel"][1293]
+* ["Building an Encrypted C2 Implant Using QUIC"][1328]
 * ["Carbonara: The MediaTek exploit nobody served"][1249]
 * ["CHECK Removed, Context Confused, Checkmate Achieved"][1287]
 * ["Clang Hardening Cheat Sheet - Ten Years Later"][1239]
@@ -4159,6 +4160,8 @@ For a deeper dive into cybersecurity-related tools, check out the dedicated **[C
 
 [1327]: https://blog.zsec.uk/harnessing-harnesses/
 
+[1328]: https://g3tsyst3m.com/encrypted%20shell/Building-an-Encrypted-C2-Implant-Using-QUIC/
+
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-26._
